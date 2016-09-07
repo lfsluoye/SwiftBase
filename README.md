@@ -7,3 +7,6 @@ I think the most difficult to learn swift should be the foundation, this is my m
 
 ### project02_类型属性
 定义: 类的属性,不是实例化对象的属性,定义前加static
+
+### project03_类型方法
+定义:根据类型属性同理可得,类型方法是类的方法,定义前加static
