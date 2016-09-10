@@ -16,3 +16,10 @@ I think the most difficult to learn swift should be the foundation, this is my m
 
 ### project05_懒加载
 定义: 让计算属性只计算一次,用关键字 `lazy`
+
+### project06_访问控制权限
+定义: 
+>- public: 可以被模块外访问
+- internal: 可以被本模块访问
+- private: 可以被本文件访问
+
