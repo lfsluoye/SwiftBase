@@ -10,3 +10,6 @@ I think the most difficult to learn swift should be the foundation, this is my m
 
 ### project03_类型方法
 定义:根据类型属性同理可得,类型方法是类的方法,定义前加static
+
+### project04_属性观察器
+注意: didSet和willSet不会再初始化阶段调用
