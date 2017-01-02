@@ -23,3 +23,6 @@ I think the most difficult to learn swift should be the foundation, this is my m
 - internal: 可以被本模块访问
 - private: 可以被本文件访问
 
+### project07_单例初探
+定义: 确保某一个类只有一个实例,而且自行实例化并向整个系统提供这个实例。
+
